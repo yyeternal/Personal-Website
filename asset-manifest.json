@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4a3245f.css",
-    "main.js": "/static/js/main.2c47cb57.js",
-    "static/js/453.b3faef14.chunk.js": "/static/js/453.b3faef14.chunk.js",
-    "static/media/nature.jpg": "/static/media/nature.469a12ebee16fb56efa6.jpg",
-    "static/media/football.jpg": "/static/media/football.2c62ed94097d9aa30216.jpg",
-    "static/media/logo-s (2).png": "/static/media/logo-s (2).68214971da86e5cc183c.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo_sub.png": "/static/media/logo_sub.061b215db5cfcdd1b47a.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.c4a3245f.css.map": "/static/css/main.c4a3245f.css.map",
-    "main.2c47cb57.js.map": "/static/js/main.2c47cb57.js.map",
-    "453.b3faef14.chunk.js.map": "/static/js/453.b3faef14.chunk.js.map"
+    "main.css": "/JonathanTinti.github.io/static/css/main.e093c3b8.css",
+    "main.js": "/JonathanTinti.github.io/static/js/main.f134b132.js",
+    "static/js/453.b3faef14.chunk.js": "/JonathanTinti.github.io/static/js/453.b3faef14.chunk.js",
+    "static/media/nature.jpg": "/JonathanTinti.github.io/static/media/nature.469a12ebee16fb56efa6.jpg",
+    "static/media/football.jpg": "/JonathanTinti.github.io/static/media/football.2c62ed94097d9aa30216.jpg",
+    "static/media/logo-s (2).png": "/JonathanTinti.github.io/static/media/logo-s (2).68214971da86e5cc183c.png",
+    "static/media/helvetica-neu.ttf": "/JonathanTinti.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/JonathanTinti.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/JonathanTinti.github.io/static/media/logo_sub.061b215db5cfcdd1b47a.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/JonathanTinti.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/JonathanTinti.github.io/index.html",
+    "main.e093c3b8.css.map": "/JonathanTinti.github.io/static/css/main.e093c3b8.css.map",
+    "main.f134b132.js.map": "/JonathanTinti.github.io/static/js/main.f134b132.js.map",
+    "453.b3faef14.chunk.js.map": "/JonathanTinti.github.io/static/js/453.b3faef14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a3245f.css",
-    "static/js/main.2c47cb57.js"
+    "static/css/main.e093c3b8.css",
+    "static/js/main.f134b132.js"
   ]
 }
