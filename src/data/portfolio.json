@@ -1,0 +1,24 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Advent of Code",
+            "description": "React, JS, Python, Java, Racket",
+            "url": "https://github.com/yyeternal/Advent-of-Code"
+        },
+
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "Final Calculator",
+            "description": "React, JS, Python, Java, Racket",
+            "url": "https://github.com/yyeternal/Python-Final-Calculator"
+        },
+
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "NFL Stadiums",
+            "description": "React, JS, Python, Java, Racket",
+            "url": "https://github.com/yyeternal/nfl-teams"
+        }
+    ]
+}
