@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JonathanTinti.github.io/static/css/main.e093c3b8.css",
-    "main.js": "/JonathanTinti.github.io/static/js/main.f7643561.js",
+    "main.js": "/JonathanTinti.github.io/static/js/main.f134b132.js",
     "static/js/453.b3faef14.chunk.js": "/JonathanTinti.github.io/static/js/453.b3faef14.chunk.js",
     "static/media/nature.jpg": "/JonathanTinti.github.io/static/media/nature.469a12ebee16fb56efa6.jpg",
     "static/media/football.jpg": "/JonathanTinti.github.io/static/media/football.2c62ed94097d9aa30216.jpg",
@@ -12,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/JonathanTinti.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/JonathanTinti.github.io/index.html",
     "main.e093c3b8.css.map": "/JonathanTinti.github.io/static/css/main.e093c3b8.css.map",
-    "main.f7643561.js.map": "/JonathanTinti.github.io/static/js/main.f7643561.js.map",
+    "main.f134b132.js.map": "/JonathanTinti.github.io/static/js/main.f134b132.js.map",
     "453.b3faef14.chunk.js.map": "/JonathanTinti.github.io/static/js/453.b3faef14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e093c3b8.css",
-    "static/js/main.f7643561.js"
+    "static/js/main.f134b132.js"
   ]
 }
