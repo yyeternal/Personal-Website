@@ -7,7 +7,7 @@ const Logo = () => {
   const outlineLogoRef = useRef()
   const solidLogoRef = useRef()
 
-  , [])
+  
 
   return (
     <div className="logo-container" ref={bgRef}>

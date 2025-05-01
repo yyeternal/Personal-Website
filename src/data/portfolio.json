@@ -1,24 +1,24 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "Advent of Code",
-            "description": "React, JS, Python, Java, Racket",
-            "url": "https://github.com/yyeternal/Advent-of-Code"
+            "cover": "/portfolio/images/DnD.png",
+            "title": "DnD Encounter Dseigner",
+            "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
+            "url": "https://github.com/yyeternal/DnD-Encounters"
         },
 
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/portfolio/images/pythonlogo.png",
             "title": "Final Calculator",
-            "description": "React, JS, Python, Java, Racket",
+            "description": "Python",
             "url": "https://github.com/yyeternal/Python-Final-Calculator"
         },
 
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "NFL Stadiums",
-            "description": "React, JS, Python, Java, Racket",
-            "url": "https://github.com/yyeternal/nfl-teams"
+            "cover": "/portfolio/images/SA.png",
+            "title": "Student Assistant Recruitment System",
+            "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
+            "url": "https://github.com/yyeternal/SA-Web-App"
         }
     ]
 }
