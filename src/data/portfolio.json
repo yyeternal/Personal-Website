@@ -1,21 +1,21 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/DnD.png",
+            "cover": "/DnD.png",
             "title": "DnD Encounter Designer",
             "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
             "url": "https://github.com/yyeternal/DnD-Encounters"
         },
 
         {
-            "cover": "/portfolio/1/pythonlogo.png",
+            "cover": "/pythonlogo.png",
             "title": "Final Calculator",
             "description": "Python",
             "url": "https://github.com/yyeternal/Python-Final-Calculator"
         },
 
         {
-            "cover": "/portfolio/1/SA.png",
+            "cover": "/SA.png",
             "title": "Student Assistant Recruitment System",
             "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
             "url": "https://github.com/yyeternal/SA-Web-App"

@@ -3,6 +3,17 @@ import "./index.scss";
 import Loader from "react-loaders"; 
 import AnimatedLetters from "../AnimatedLetters";
 import portfolioData from '../../data/portfolio.json';  
+import dndImage from '../../assets/images/DnD.png';
+import pythonImage from '../../assets/images/pythonlogo.png';
+import saImage from '../../assets/images/SA.png';
+
+
+const imageMap = {
+    "DnD.png": dndImage,
+    "pythonlogo.png": pythonImage,
+    "SA.png": saImage
+};
+
 
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate'); 
@@ -25,9 +36,9 @@ const Portfolio = () => {
                     portfolio.map((port, idx) => {
                         return (
                         <div className="image-box" key={idx}>
-                            <img src={process.env.PUBLIC_URL + port.cover}
+                            <img src={imageMap[port.cover.split('/').pop()]}
                             className="portfolio-image" 
-                            alt="portfolio" />
+                            alt={port.title} />
                             <div className="content">
                                 <p className="title">{port.title}</p>
                                 <h4 className="description">{port.description}</h4>
