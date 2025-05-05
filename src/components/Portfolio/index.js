@@ -3,9 +3,9 @@ import './index.scss'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import portfolioData from '../../data/portfolio.json'
-import dndImage from '../../assets/images/DnD.png'
-import pythonImage from '../../assets/images/pythonlogo.jpg'
-import saImage from '../../assets/images/SA.png'
+import dndImage from '../../Assets/images/DnD.png'
+import pythonImage from '../../Assets/images/pythonlogo.jpg'
+import saImage from '../../Assets/images/SA.png'
 
 const imageMap = {
   'DnD.png': dndImage,
