@@ -1,3 +1,3 @@
 # Link for the website
 
-https://yyeternal.github.io/JonathanTinti.github.io/ 
+https://yyeternal.github.io/Personal-Website/ 
