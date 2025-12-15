@@ -42,8 +42,8 @@
             transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
             background: linear-gradient(
                 180deg,
-                rgba(0, 0, 0, 0.2), 0,
-                rgba(0, 0, 0, 1)
+                rgba(0, 0, 0, 0.2) 0%,
+                rgba(0, 0, 0, 1) 100%
             );
             bottom: -70px; 
         }
@@ -108,6 +108,69 @@
         &:hover .content {
             bottom: 0;
             background: transparent; 
+        }
+    }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    .portfolio-page {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        width: 100% !important;
+        position: relative !important;
+        padding-top: 100px;
+
+        h1.page-title {
+            margin-left: 0 !important;
+            margin-top: 0 !important;
+            font-size: 32px !important;
+        }
+
+        .images-container {
+            display: flex !important;
+            flex-direction: column !important;
+            gap: 20px !important;
+            padding-bottom: 50px !important;
+        }
+
+        .image-box {
+            max-width: 100% !important;
+            width: 100% !important;
+            height: 300px !important;
+            flex: 1 1 100% !important;
+            display: block !important;
+
+            .portfolio-image {
+                display: block !important;
+                position: relative !important;
+            }
+
+            .content {
+                bottom: 0 !important;
+                position: relative !important;
+                background: rgba(0, 0, 0, 0.85) !important;
+            }
+
+            .title {
+                font-size: 20px !important;
+            }
+
+            .description {
+                font-size: 13px !important;
+            }
+
+            .btn {
+                margin-top: 15px !important;
+                padding: 0 15px !important;
+                height: 35px !important;
+                line-height: 31px !important;
+                font-size: 12px !important;
+            }
+
+            &:after {
+                display: none !important;
+            }
         }
     }
 }

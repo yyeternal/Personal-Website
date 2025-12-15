@@ -78,3 +78,42 @@
         }
     }
 }
+
+@media (max-width: 768px) {
+    .home-page {
+        .text-zone {
+            left: 5%;
+            width: 90%;
+            top: 45%;
+        }
+
+        h1 {
+            font-size: 32px;
+            line-height: 1.4;
+            white-space: normal;
+
+            br {
+                display: inline;
+            }
+
+            br::after {
+                content: ' ';
+            }
+
+            img {
+                width: 30px;
+                height: 40px;
+            }
+        }
+
+        h2 {
+            font-size: 10px;
+            letter-spacing: 2px;
+        }
+
+        .flat-button {
+            font-size: 11px;
+            padding: 8px 15px;
+        }
+    }
+}

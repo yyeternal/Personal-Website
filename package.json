@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://jonathantinti.com/Personal-Website",
+  "homepage": "https://jonathantinti.com",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.1",

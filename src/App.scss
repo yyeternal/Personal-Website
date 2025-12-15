@@ -18,6 +18,24 @@ $primary-color: #ffd700;
   src: url('./Assets/Fonts/CoolveticaRg-Regular.woff2') format('woff2');
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 input, 
 textarea{
   font-family:'Helvetica Neue';
@@ -35,4 +53,12 @@ textarea{
   height: 50px; 
   animation: fadeOut 1s 1s; 
   animation-fill-mode: forwards; 
+}
+
+h1, h2, h3, h4, h5, h6, p, span, div, a, button, li {
+  word-break: normal;
+  overflow-wrap: normal;
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
 }
