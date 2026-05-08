@@ -1,6 +1,6 @@
 # Link for the website
 
-https://yyeternal.github.io/Personal-Website/ 
+https://jonathantinti.com 
 
 
 # Languages and Frameworks 
