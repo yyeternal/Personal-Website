@@ -27,17 +27,16 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I'm a very ambitious front-end developer looking for a role in 
+                    I'm a very ambitious full-stack developer looking for a role in 
                     an established or startup software engineering company with the opportunity to work on 
                     new, challenging and diverse projects.
                 </p>
                 <p>
-                    I'm naturally curious and constantly working to continue to learn 
-                    new languages and problem solving skills. 
+                    I've done extensive work creating applications that serve real purposes and solve real world problems. 
+                    I have done work with both software engineering along with embedded systems. 
                 </p>
                 <p>
-                    If I had to define myself in one sentence it would have to be a nature lover, proud Jets fan, 
-                    athlete, ambitious new techie, and willing to give 100% to any cause I participate in. 
+                    Many of my projects involve personal interests of mine. You can see these in the portfolio section of this website. 
                 </p>
             </div>
             <div className='strange-cube-cont'>

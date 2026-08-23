@@ -14,7 +14,7 @@ const Home = () => {
     useEffect(() => {
         setTimeout(() => {
             setLetterClass('text-animate-hover')
-        }, 4000)
+        }, 5000)
     }, [])
     return (
         <>
@@ -33,9 +33,9 @@ const Home = () => {
                 <br /> 
                 <AnimatedLetters letterClass={letterClass}
                 strArray={jobArray}
-                idx={22}/> 
+                idx={24}/> 
                 </h1>
-                <h2>Frontend/Backend Developer / Current Student / Future Software Engineer </h2>
+                <h2>Frontend/Backend Developer / Current Graduate Student / Software Engineer </h2>
             </div>
             <Logo />
         </div>

@@ -54,7 +54,7 @@ const Sidebar = () => {
             </a>
           </li>
           <li>
-            <a target="_blank" rel="noreferrer" href="https://github.com/yyeternal">
+            <a target="_blank" rel="noreferrer" href="https://github.com/Jonathan-Tinti">
               <FontAwesomeIcon icon={faGithub} />
             </a>
           </li>
