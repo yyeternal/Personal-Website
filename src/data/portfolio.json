@@ -4,21 +4,42 @@
             "cover": "DnD.png",
             "title": "DnD Encounter Designer",
             "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
-            "url": "https://github.com/yyeternal/DnD-Encounters"
+            "url": "https://github.com/Jonathan-Tinti/DnD-Encounters"
+        },
+
+        {
+            "cover": "soccer.png",
+            "title": "Soccer League App",
+            "description": "React, Typescript, Nest.js, Express, HTML, CSS, Supabase",
+            "url": "https://github.com/Jonathan-Tinti/Sports-League-Planner"
+        },
+
+        {
+            "cover": "face.png",
+            "title": "Facial Recognition App",
+            "description": "React, Typescript, TensorFlow",
+            "url": "http://github.com/Jonathan-Tinti/facial-recognition-software"
+        },
+
+        {
+            "cover": "rick.png",
+            "title": "Rick and Morty App",
+            "description": "React-Native, JavaScript, Axios",
+            "url": "https://github.com/Jonathan-Tinti/Rick_and_Morty_Info_App"
         },
 
         {
             "cover": "pythonlogo.jpg",
             "title": "Final Calculator",
             "description": "Python",
-            "url": "https://github.com/yyeternal/Python-Final-Calculator"
+            "url": "https://github.com/Jonathan-Tinti/Python-Final-Calculator"
         },
 
         {
             "cover": "SA.png",
             "title": "Student Assistant Recruitment System",
             "description": "Flask, Python, JS, SQLAlchemy, HTML, CSS, Bootstrap",
-            "url": "https://github.com/yyeternal/SA-Web-App"
+            "url": "https://github.com/Jonathan-Tinti/SA-Web-App"
         }
     ]
 }

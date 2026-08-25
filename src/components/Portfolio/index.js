@@ -6,11 +6,17 @@ import portfolioData from '../../data/portfolio.json'
 import dndImage from '../../Assets/images/DnD.png'
 import pythonImage from '../../Assets/images/pythonlogo.jpg'
 import saImage from '../../Assets/images/SA.png'
+import soccerImage from '../../Assets/images/soccer.png'
+import rickImage from '../../Assets/images/rick.png'
+import faceImage from '../../Assets/images/face.png'
 
 const imageMap = {
   'DnD.png': dndImage,
   'pythonlogo.jpg': pythonImage,
   'SA.png': saImage,
+  'soccer.png': soccerImage,
+  'rick.png': rickImage,
+  'face.png': faceImage,
 }
 
 const Portfolio = () => {
