@@ -4,49 +4,63 @@
     flex-direction: row;        
     justify-content: center;    
     align-items: center;        
-    min-height: 100vh;          
+    height: 100%;        
     padding: 0 50px;            
     box-sizing: border-box;
+    overflow-y: auto;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
 }
 
-.txt-zone {
-    flex: 1;                    
+.about-zone {
+    display: flex;
+    flex-direction: row;
+}
+
+.txt-zone {               
     max-width: 500px;        
-    margin-right: 50px;
+    margin-left: 115px;
 }
 
 .image-container {
     display: flex; 
-    flex-direction: column;     
-    align-items: center;        
+    flex-wrap: wrap;
+    flex-direction: row;     
+    align-items: center;     
+    justify-content: center;   
     gap: 20px;
 }
 
 .container.about-page 
 
 .Jets-photo, .Tree-photo {
-    padding: 50px;
-
     img {
-        width: 400px;
-        height: 250px;
+        width: 300px;
     }
 }
 
 .me-photo, .nature-photo, .archery-photo {
     padding: 50px;
-
     img {
         width: 200px;
         height: 300px;
     }
 }
 
+.me-photo {
+    margin-left: 200px;
+}
+
 /* MOBILE */
 @media (max-width: 768px) {
 
     .nature-photo,
-    .Jets-photo {
+    .Jets-photo,
+    .me-photo,
+    .archery-photo,
+    .Tree-photo {
         display: none !important;
     }
 
