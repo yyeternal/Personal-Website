@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fae621f.css",
-    "main.js": "/static/js/main.1272e905.js",
+    "main.css": "/static/css/main.a999aec5.css",
+    "main.js": "/static/js/main.b7cb35ab.js",
     "static/js/453.32bc8d24.chunk.js": "/static/js/453.32bc8d24.chunk.js",
     "static/media/nature.jpg": "/static/media/nature.469a12ebee16fb56efa6.jpg",
     "static/media/football.jpg": "/static/media/football.2c62ed94097d9aa30216.jpg",
@@ -11,6 +11,7 @@
     "static/media/me.jpeg": "/static/media/me.60a109be4468a1865cab.jpeg",
     "static/media/rick.png": "/static/media/rick.d738118a575f03eb923b.png",
     "static/media/SA.png": "/static/media/SA.c61e6ef52febde24a1ee.png",
+    "static/media/Jonathan_R_Tinti_Resume_2026.pdf": "/static/media/Jonathan_R_Tinti_Resume_2026.972b975b5c84ed719330.pdf",
     "static/media/soccer.png": "/static/media/soccer.c885d27625daaac23419.png",
     "static/media/logo-s (2).png": "/static/media/logo-s (2).68214971da86e5cc183c.png",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -19,12 +20,12 @@
     "static/media/pythonlogo.jpg": "/static/media/pythonlogo.b0c1443be8a811415ea6.jpg",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.7fae621f.css.map": "/static/css/main.7fae621f.css.map",
-    "main.1272e905.js.map": "/static/js/main.1272e905.js.map",
+    "main.a999aec5.css.map": "/static/css/main.a999aec5.css.map",
+    "main.b7cb35ab.js.map": "/static/js/main.b7cb35ab.js.map",
     "453.32bc8d24.chunk.js.map": "/static/js/453.32bc8d24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fae621f.css",
-    "static/js/main.1272e905.js"
+    "static/css/main.a999aec5.css",
+    "static/js/main.b7cb35ab.js"
   ]
 }
