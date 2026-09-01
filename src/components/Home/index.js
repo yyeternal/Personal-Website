@@ -6,6 +6,7 @@ import AnimatedLetters from '../AnimatedLetters'
 import { useEffect } from 'react';
 import Logo from './Logo'
 import Loader from 'react-loaders';
+import myResume from '../../Assets/Files/Jonathan_R_Tinti_Resume_2026.pdf';
 const Home = () => {
     const  [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['o', 'n', 'a', 't', 'h', 'a', 'n', ',']
@@ -36,6 +37,10 @@ const Home = () => {
                 idx={24}/> 
                 </h1>
                 <h2>Frontend/Backend Developer / Current Graduate Student / Software Engineer </h2>
+                <h1>My Resume</h1>
+                <a href={myResume} target="_blank" rel="noreferrer">
+                    <button className="flat-button">Open Resume</button>
+                </a>
             </div>
             <Logo />
         </div>
